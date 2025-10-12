@@ -1,0 +1,86 @@
+[
+    {
+        "id": 2,
+        "name": "cẩm tú cầu",
+        "desc": "",
+        "image": "1760168553_cam-tu-cau.jpg"
+    },
+    {
+        "id": 3,
+        "name": "hoa giấy",
+        "desc": "",
+        "image": "1760169418_giay.jpg"
+    },
+    {
+        "id": 4,
+        "name": "hoa cúc",
+        "desc": "",
+        "image": "1760169443_cuc-dai.jpg"
+    },
+    {
+        "id": 5,
+        "name": "hoa cúc lá nhỏ",
+        "desc": "",
+        "image": "1760169463_cuc-la-nho.jpg"
+    },
+    {
+        "id": 6,
+        "name": "hoa dạ yên thảo",
+        "desc": "",
+        "image": "1760169498_da-yen-thao.jpg"
+    },
+    {
+        "id": 7,
+        "name": "hoa đèn lòng",
+        "desc": "",
+        "image": "1760169519_den-long.jpg"
+    },
+    {
+        "id": 8,
+        "name": "hoa đồng tiền",
+        "desc": "",
+        "image": "1760169536_dong-tien.jpg"
+    },
+    {
+        "id": 9,
+        "name": "hoa dừa cạn",
+        "desc": "",
+        "image": "1760169570_dua-can.jpg"
+    },
+    {
+        "id": 10,
+        "name": "hoa huỳnh anh",
+        "desc": "",
+        "image": "1760169600_huynh-anh.jpg"
+    },
+    {
+        "id": 11,
+        "name": "hoa păng xê",
+        "desc": "",
+        "image": "1760169639_pang-xe.jpg"
+    },
+    {
+        "id": 12,
+        "name": "hoa sen",
+        "desc": "",
+        "image": "1760169657_sen.jpg"
+    },
+    {
+        "id": 13,
+        "name": "hoa sử quân tử",
+        "desc": "",
+        "image": "1760169689_su-quan-tu.jpg"
+    },
+    {
+        "id": 14,
+        "name": "hoa thanh tú",
+        "desc": "",
+        "image": "1760169708_thanh-tu.jpg"
+    },
+    {
+        "id": 15,
+        "name": "hoa cẩm chướng",
+        "desc": "",
+        "image": "1760169963_cam-chuong.jpg"
+    }
+]

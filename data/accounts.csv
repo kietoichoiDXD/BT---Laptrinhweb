@@ -1,0 +1,5 @@
+id,username,email,role
+1,admin,admin@gmail.com,admin
+2,nguyenvana,user1@gmail.com,user
+3,lethib,user2@gmail.com,user
+4,trandung,user3@gmail.com,staff
